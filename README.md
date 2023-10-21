@@ -1,4 +1,4 @@
-# REACT CLOCK APP
+# React Clock APP
 
 #### By Tatiana Snook
 
@@ -18,18 +18,14 @@
 1. Before you start, ensure you have the following prerequisites:
 Make sure you have Node.js installed on your computer. You can download it from nodejs.org.
 
-2. Clone or download this repository to your local machine.
-###### `git clone https://github.com/your-username/react-clock-app.git`
+2. Clone or download this repository to your local machine. Run in Terminal: git clone https://github.com/your-username/react-clock-app.git
 
 
-3. Navigate to the project directory.
-###### `cd react-clock-app`
+3. Navigate to the project directory. Run: cd react-clock-app
 
-4. Install the required dependencies.
-###### `npm install`
+4. Install the required dependencies: npm install
 
-5. To run a project on your local machine:
-###### `npm start`
+5. To run a project on your local machine: npm start
 
 ## Known Issues
 
